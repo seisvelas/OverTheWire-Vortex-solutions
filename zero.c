@@ -1,5 +1,9 @@
 /*
-** client.c -- a stream socket client demo
+** Yeah I didn't want to relearn TCP in C so I just copypasta'd the client.c example
+    client from Beej's Guide To Network Programming and modified it to read in unsigned ints. :)
+    It's funny cuz normally you want employers to look through your Github and, you know, be wow'd by
+    your prowess or whatever. But my Github repos are so fucking ugly haha, like if any employer saw
+    this C code, sheesh. Imagine. But here's something to consider: IT FREAKING WORKS!!! YEESSSSSS
 */
 
 #include <stdio.h>
